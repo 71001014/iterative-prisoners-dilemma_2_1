@@ -2,7 +2,7 @@ from __future__ import print_function
 
 ''' 
 
-#Seth Participated at the minimum 
+Seth Participated at the minimum 
 
 PrisonerDilemma.py allows hard-coding different strategiess
 for the Iterative Prisoners Dilemma, the canonical game of game-theory.
